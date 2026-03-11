@@ -24,8 +24,7 @@ These recipes have been tested under the following circumstances:
 * Dinner for two
 * Family birthday
 * PhD graduation party
-
-[Add to the list other circumstances to test the recipes]
+* BBQ
 
 ## Requirements
 - Kitchen
@@ -34,9 +33,8 @@ These recipes have been tested under the following circumstances:
     - Spoon
 - Ingredients
     - Salt
-
-[Complete the list of requirements. Use indented lists too.]
-
+    - Cracked Pepper
+    - Garlic Powder
 ## How to install
 
 Click on the desired .md file in GitHub to visualize online. 
@@ -45,7 +43,7 @@ Alternatively, clone this repository locally and use your favorite text editor t
 [Highlight .md words using `inline code` quotes]
 
 ## License
-This software is distributed under a ________license.
+This software is distributed under a APACHE license.
 
 [Pick the license that best fits this repository: MIT, Creative Commons, Apache] 
 
@@ -60,5 +58,4 @@ Use the citation in the `CITATION.CFF` file to acknowledge this work.
 ## Acknowlegdements
 - Nana
 - Raul, my mexican friend
-
-[Name anyone who has helped this project]
+- Instructors
