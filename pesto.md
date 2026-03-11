@@ -1,3 +1,0 @@
-* Ingredients
-* basil
-* olive oil
